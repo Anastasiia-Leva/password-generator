@@ -15,7 +15,7 @@ Allows you to choose the password length and optionally include numbers and spec
 Usage:
 
 Run the script:
-```bash
+   bash
 python password_generator.py
 
 
